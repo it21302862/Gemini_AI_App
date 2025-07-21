@@ -34,8 +34,6 @@ This project offers a smart, minimalist UI for prompt-based chatting, theme togg
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 - **Frontend**: React, Vite
 - **Styling**: Tailwind CSS / CSS Modules
 - **UI Icons**: Material UI
