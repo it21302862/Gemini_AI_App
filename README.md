@@ -17,7 +17,7 @@ This project offers a smart, minimalist UI for prompt-based chatting, theme togg
 ![Dark Mode](https://github.com/it21302862/Gemini_AI_App/blob/main/gemini-clone-chat-app/src/assets/UI/dark.png)
 
 ### 💬 Chat History Panel  
-![Chat History](.https://github.com/it21302862/Gemini_AI_App/blob/main/gemini-clone-chat-app/src/assets/UI/chat_history.png)
+![Chat History](https://github.com/it21302862/Gemini_AI_App/blob/main/gemini-clone-chat-app/src/assets/UI/chat_history.png)
 
 ---
 
